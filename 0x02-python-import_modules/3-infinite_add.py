@@ -5,4 +5,4 @@ if __name__ == "__main__":
     sum = 0
     for num in range(1, length):
         sum += int(argv[num])
-        print(sum)
+    print(sum)
